@@ -1,0 +1,4 @@
+Calcola l'integrale definito di x^2 tra 0 e 1.
+Qual è la derivata di sin(x)?
+Spiega le fasi della fotosintesi clorofilliana.
+Come si suona l'accordo di Do maggiore sulla chitarra?
